@@ -1,4 +1,5 @@
 numpy
 matplotlib
-perceval-quandela==0.7.2
 jupyter
+
+git+https://github.com/MathiasPnt/Perceval.git@PCVL-97-g2-source
